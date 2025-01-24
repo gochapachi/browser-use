@@ -1,0 +1,11 @@
+{
+  "build": {
+    "type": "nixpacks",
+    "command": "pip install browser-use && playwright install",
+    "include": ["README.md", "requirements.txt"]
+  },
+  "environment": {
+    "OPENAI_API_KEY": "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",
+    "PLAYWRIGHT_BROWSERS_PATH": "/app/.playwright"
+  }
+}
