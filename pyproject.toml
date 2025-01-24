@@ -5,7 +5,7 @@ authors = [
     { name = "Gregor Zunic" }
 ]
 version = "0.1.27"
-readme = "README.md"
+# readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3",
